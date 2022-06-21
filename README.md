@@ -26,4 +26,6 @@ Part 7: Result
 ## Note
 
 Create a folder named Flappy Bird. In this folder create another folder named Gallary and main.py.
-main.py will have the code and Gallary will again have 2 folders : sprites(all the images required) and audio( the audio files which has been used in the project).
+main.py will have the code and Gallary will again have 2 folders : sprites(all the images required) and audio(the audio files which has been used in the project). Unzip sprites and audio before use.
+
+
